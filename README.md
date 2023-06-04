@@ -2,4 +2,4 @@
 
 # セットアップ
 ```bash
-$ node server.js
+$ node challenge.js
