@@ -1,4 +1,4 @@
 # Up-Garage-Group-Test
 
-#起動コマンド
+# 起動コマンド
 node challenge.js
